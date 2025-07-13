@@ -36,6 +36,8 @@ Built a deep learning pipeline with:
 ### 🖼️ Output Sample
 
 Generated images that translate structural representations into detailed visuals using learned pixel mappings.
+![Stable Diffusion Output](https://github.com/Yamini192211153/PRODIGY_GA_02/blob/main/GA_Task_4_output.png)
+
 
 ---
 
